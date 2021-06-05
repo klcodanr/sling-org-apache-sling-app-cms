@@ -22,9 +22,9 @@
     <div class="main-section has-background-light">
         <div class="columns">
             <div class="column has-background-white-bis" style="overflow-y: auto; height: 100vh">
-                <div class="Main-Content">
+                <main class="Main-Content">
                     <sling:call script="content.jsp" />
-                </div>
+                </main>
             </div>
         </div>
     </div>
