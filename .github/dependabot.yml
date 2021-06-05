@@ -1,0 +1,21 @@
+version: 2
+updates:
+- package-ecosystem: maven
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: org.apache.jackrabbit:jackrabbit-jcr-commons
+    versions:
+    - 2.21.5
+  - dependency-name: org.apache.sling:org.apache.sling.engine
+    versions:
+    - 2.7.4
+- package-ecosystem: npm
+  directory: "/ui"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
