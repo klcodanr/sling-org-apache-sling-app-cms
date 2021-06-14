@@ -59,7 +59,7 @@
         <org-apache-sling-scripting-api-version>2.2.0</org-apache-sling-scripting-api-version>
         <org-apache-sling-scripting-jsp-taglib-version>2.4.0</org-apache-sling-scripting-jsp-taglib-version>
         <org-apache-sling-testing-sling-mock-junit4-version>3.0.2</org-apache-sling-testing-sling-mock-junit4-version>
-        <org.apache.felix.webconsole-version>4.6.0</org.apache.felix.webconsole-version>
+        <org.apache.felix.webconsole-version>4.6.2</org.apache.felix.webconsole-version>
         <osgi-annotation-version>6.0.1</osgi-annotation-version>
         <guava-version>15.0</guava-version>
         <pdfbox-version>2.0.23</pdfbox-version>
