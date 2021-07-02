@@ -60,7 +60,7 @@
             <plugin>
                 <groupId>org.apache.sling</groupId>
                 <artifactId>slingfeature-maven-plugin</artifactId>
-                <version>1.5.4</version>
+                <version>1.5.10</version>
                 <extensions>true</extensions>
                 <configuration>
                     <framework>
