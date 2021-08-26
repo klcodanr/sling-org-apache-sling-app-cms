@@ -48,7 +48,7 @@
         <jsoup-version>1.13.1</jsoup-version>
         <jsp-api-version>2.0</jsp-api-version>
         <jstl-version>1.2_1</jstl-version>
-        <mockito-core-version>3.11.0</mockito-core-version>
+        <mockito-core-version>3.12.4</mockito-core-version>
         <oak-version>1.40.0</oak-version>
         <org-apache-sling-api-version>2.23.6</org-apache-sling-api-version>
         <org-apache-sling-caconfig-api-version>1.2.0</org-apache-sling-caconfig-api-version>
